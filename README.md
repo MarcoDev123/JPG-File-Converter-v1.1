@@ -4,4 +4,4 @@ JPG File Converter is a simple and user-friendly Windows desktop tool designed t
 Trial version includes 5 free conversions. Upgrade to Pro for unlimited conversions.
 
 ![image alt](https://github.com/MarcoDev123/JPG-File-Converter-v1.1/blob/main/Jpg_File_Converter_about.png?raw=true)
-
+![image alt](https://github.com/MarcoDev123/JPG-File-Converter-v1.1/blob/main/Screenshot%202026-06-06%20190140.png?raw=true)
